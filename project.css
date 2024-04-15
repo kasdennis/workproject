@@ -1,0 +1,176 @@
+.top{
+    display: flex;
+    width: 100%;
+    text-decoration: none;
+}
+
+#right{
+    text-align: right;
+    margin-left: 620px;
+    margin-top: 30px;
+    font-size: 12px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.hello{
+    background-color: #FFD4DB;
+    align-content: space-around;
+    width: 100%;
+    height: 450px;
+    padding: 20px;
+}
+#text1{
+    width: 50%;
+}
+button{
+    height: 30px;
+    width: 120px;
+    background-color: black;
+    color: white;
+
+}
+#img1{
+    margin-top: -300px;
+    margin-left: 800px;
+    height: 400px;
+}
+.aboutme{
+    width: 100%;
+    background-color: #FFD4DB;
+    margin-top: 90px;
+    height: 450px;
+    align-content: space-around;
+}
+#text2{
+width: 50% ;
+margin-left: 620px;
+}
+.abt{
+   margin-left: 620px;
+}
+#img2{
+    margin-top: -400px;
+}
+#design{
+    color: white;
+}
+.container{
+    background-color: #FFD4DB;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    margin-top: 90px;
+}
+.wd{
+    width: 25%;
+    padding: 10px;
+    height: 250px;
+    background-color: rgba(246, 231, 231, 0.949);
+    margin-top: 100px; 
+    border-right: 20px solid #FFD4DB;
+   margin-left: 20px;
+}
+.webdev{
+    width: 25%;
+    padding: 10px;
+    height: 250px;
+    background-color: rgba(246, 231, 231, 0.949);
+    margin-top: 100px;
+    border-right: 20px solid #FFD4DB;
+}
+.dm{
+    width: 25%;
+    padding: 10px;
+    height: 250px;
+    background-color: rgba(246, 231, 231, 0.949);
+    margin-top: 100px;
+    border-right: 20px solid #FFD4DB;
+}
+.cw{
+    width: 25%;
+    padding: 10px;
+    height: 250px;
+    background-color: rgba(246, 231, 231, 0.949);
+    margin-top: 100px;
+    border-right: 20px solid #FFD4DB;
+}
+#wdc{
+    background-color: black;
+    margin-top: 20px;
+}
+.osr{
+    text-align: center;
+    margin-top: -420px;
+}
+#design{
+    color: whitesmoke;
+}
+#wri{
+    color: whitesmoke;
+}
+#dev{
+    color: whitesmoke;
+}
+#mrk{
+    color: white;
+}
+#img3{
+    height: 54px;
+    background-color: rgba(246, 231, 231, 0.949);
+    
+}
+.last{
+    width: 100%;
+    height: 350px; 
+    display: flex;
+    background-color: rgb(27, 26, 26);
+    margin-top: 400px;
+    color: rgb(99, 94, 94);
+    
+   
+}
+.porto{
+    width: 25%;
+    padding: 10px;
+}
+.feed{
+    width: 25%;
+    padding: 10px;
+    margin-top: 50px;
+}
+.cnt{
+    width: 25%;
+    padding: 10px;
+    margin-top: 50px;
+}
+.tnk{
+    width: 25%;
+    padding: 10px;
+    margin-top: 50px;
+}
+h3{
+    color: white;
+}
+#kolo{
+    color: white;
+}
+#longer{
+   height: 30px;
+   margin-right: 15px;
+}
+#button{
+    background-color: #FFD4DB;
+    color: black;
+    width: 70px;
+    height: 30px;
+    margin-left: -20px;
+    
+}
+a{
+    border-right: 20px solid white;
+}
+a:hover{
+    color: gold;
+}
